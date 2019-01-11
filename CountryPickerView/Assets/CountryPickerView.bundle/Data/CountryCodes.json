@@ -1,0 +1,17 @@
+[
+  {
+  "name": "India",
+  "dial_code": "+91",
+  "code": "IN"
+  },
+  {
+  "name": "United States",
+  "dial_code": "+1",
+  "code": "US"
+  },
+  {
+  "name": "Egypt",
+  "dial_code": "+20",
+  "code": "EG"
+  }
+]
